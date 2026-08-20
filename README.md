@@ -26,7 +26,7 @@ vibeconfessing-YYYY-MM-DD-topic.md
 
 | 日期 | 主题 | 关键词 |
 |---|---|---|
-| 2026-08-19 | [birth-v2](vibeconfessing-2026-08-19-birth-v2.md) | 逐字版 · 向量嵌入、对比学习、模块化认知、意识哲学、VibeConfessing 一词的诞生 |
+| 2026-08-19 | [birth](vibeconfessing-2026-08-19-birth.md) | 向量嵌入、对比学习、模块化认知、意识哲学、VibeConfessing 一词的诞生 |
 | 2026-08-19 | [oaklab](vibeconfessing-2026-08-19-oaklab.md) | Oak Lab、Sutton、IDBD、噪声悖论、情感诞生于噪声 |
 
 ## What you'll find
